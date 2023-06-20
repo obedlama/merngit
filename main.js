@@ -1,17 +1,5 @@
-debugger;
-let a=10 
-debugger;
-function  addvalue()
-{
-debugger;    
-function multiply()
-{
-    a=a*10
-  return a
-}
-debugger;
-a= a+ multiply()
-
-}
-debugger;
-addvalue()
+//remoiving element from array
+const name=[1,2,3]
+const length = arr.length
+console.log(length)
+Pop(0)
